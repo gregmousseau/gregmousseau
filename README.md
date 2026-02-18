@@ -17,7 +17,7 @@ Languages    Kotlin · TypeScript · Python · Swift
 Frontend     React Native (Expo) · Next.js · Jetpack Compose
 Backend      Node.js · Supabase · PostgreSQL
 AI/ML        Claude · Gemini · OpenAI · RAG · Agent frameworks
-Mobile       Android (Kotlin) · iOS (Swift) · Cross-platform (Expo)
+Mobile       Android (Kotlin) · iOS (Swift) · Desktop (Tauri) · Cross-platform (Expo)
 Infra        Vercel · Docker · WSL · Stripe Connect
 ```
 
