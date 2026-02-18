@@ -32,7 +32,6 @@ Infra        Vercel · Docker · WSL · Stripe Connect
 
 - 🌐 [gregmousseau.com](https://gregmousseau.com)
 - 💼 [gtalabs.com](https://gtalabs.com)
-- 🐦 [@gregmousseau](https://twitter.com/gregmousseau)
 
 ---
 
